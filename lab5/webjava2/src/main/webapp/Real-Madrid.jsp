@@ -1,0 +1,29 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<tr>
+    <td>17</td>
+    <td>Лукас</td>
+    <td>Васкес</td>
+    <td>ЛЗ</td>
+</tr>
+<tr>
+    <td>20</td>
+    <td>Винисиус</td>
+    <td>Жуниор</td>
+    <td>ЛФД</td>
+</tr>
+<tr>
+    <td>8</td>
+    <td>Тони</td>
+    <td>Кроос</td>
+    <td>ЦПЗ</td>
+</tr>
+<tr>
+    <td>1</td>
+    <td>Тибо</td>
+    <td>Куртуа</td>
+    <td>ВРТ</td>
+</tr>
+</html>

@@ -1,0 +1,50 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/taisumov/.m2/repository/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.7'
+-sourcepath
+'C:/Users/taisumov/eclipse-workspace/webjava2/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/taisumov/eclipse-workspace/webjava2/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'webjava2 Maven Webapp 0.0.1-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/7/docs/api' 'C:/Users/taisumov/eclipse-workspace/webjava2/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'webjava2 Maven Webapp 0.0.1-SNAPSHOT API'
+etu
+'C:/Users/taisumov/eclipse-workspace/webjava2/src/main/java/etu/TeamBase.java'
+C:\Users\taisumov\.m2\repository\javax\servlet\javax.servlet-api\4.0.1\javax.servlet-api-4.0.1.jar = 1647596026303
+C:\Users\taisumov\eclipse-workspace\webjava2\src\main\java = 1648639449080
+C:\Users\taisumov\eclipse-workspace\webjava2\target\site\apidocs\allclasses-index.html = 1649006029717
+C:\Users\taisumov\eclipse-workspace\webjava2\target\site\apidocs\allpackages-index.html = 1649006029723
+C:\Users\taisumov\eclipse-workspace\webjava2\target\site\apidocs\element-list = 1649006029599
+C:\Users\taisumov\eclipse-workspace\webjava2\target\site\apidocs\help-doc.html = 1649006029786
+C:\Users\taisumov\eclipse-workspace\webjava2\target\site\apidocs\index-all.html = 1649006029768
+C:\Users\taisumov\eclipse-workspace\webjava2\target\site\apidocs\index.html = 1649006029773
+C:\Users\taisumov\eclipse-workspace\webjava2\target\site\apidocs\jquery-ui.overrides.css = 1649006029855
+C:\Users\taisumov\eclipse-workspace\webjava2\target\site\apidocs\member-search-index.js = 1649006029731
+C:\Users\taisumov\eclipse-workspace\webjava2\target\site\apidocs\module-search-index.js = 1649006029725
+C:\Users\taisumov\eclipse-workspace\webjava2\target\site\apidocs\overview-tree.html = 1649006029696
+C:\Users\taisumov\eclipse-workspace\webjava2\target\site\apidocs\package-search-index.js = 1649006029727
+C:\Users\taisumov\eclipse-workspace\webjava2\target\site\apidocs\script.js = 1649006029796
+C:\Users\taisumov\eclipse-workspace\webjava2\target\site\apidocs\search.js = 1649006029804
+C:\Users\taisumov\eclipse-workspace\webjava2\target\site\apidocs\serialized-form.html = 1649006029646
+C:\Users\taisumov\eclipse-workspace\webjava2\target\site\apidocs\stylesheet.css = 1649006029792
+C:\Users\taisumov\eclipse-workspace\webjava2\target\site\apidocs\tag-search-index.js = 1649006029733
+C:\Users\taisumov\eclipse-workspace\webjava2\target\site\apidocs\type-search-index.js = 1649006029729
